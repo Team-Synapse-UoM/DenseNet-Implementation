@@ -1,7 +1,8 @@
 # DenseNet-Implementation
 
+Load MNIST - https://pytorch.org/vision/0.19/generated/torchvision.datasets.MNIST.html#torchvision.datasets.MNIST
 
-
+conda activate my_pytorch
 
 ## References
 
