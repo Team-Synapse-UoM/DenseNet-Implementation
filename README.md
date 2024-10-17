@@ -2,7 +2,9 @@
 
 Load MNIST - https://pytorch.org/vision/0.19/generated/torchvision.datasets.MNIST.html#torchvision.datasets.MNIST
 
-conda create --name pytorch_env python=3.11.9 --file requirements.txt
+conda create --name pytorch_env python=3.11.9 
+
+--file requirements.txt
 
 conda activate pytorch_env
 
