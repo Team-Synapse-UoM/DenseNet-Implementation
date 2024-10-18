@@ -26,8 +26,11 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-#data folder
+# data folder
 data/
+
+# model
+densenet_mnist.pth
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
